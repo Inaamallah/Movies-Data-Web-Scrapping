@@ -27,16 +27,16 @@ The script extracts **10 key data points** for every movie:
 
 | Column Name | Description | Example |
 | :--- | :--- | :--- |
-| **Movie Name** | Title of the film | *The Wrecking Crew* |
-| **Link** | URL to the movie details page | *https://www.themoviedb.org/movie/...* |
-| **MPA** | Age rating certification | `PG-13`, `R` |
-| **User Score** | Audience rating percentage | `76` |
-| **Overview** | Brief plot summary | *"Estranged half-brothers reunite..."* |
-| **Genre** | Comma-separated list of genres | `Action, Comedy, Crime` |
-| **Duration** | Runtime of the movie | `2h 2m` |
-| **Released Date** | Official release date | `01/28/2026 (US)` |
-| **Budget** | Production cost (Cleaned) | `$90,000,000.00` |
-| **Revenue** | Box office earnings (Cleaned) | `$11,416,907.00` |
+| **Movie Name** | Title of the film |
+| **Link** | URL to the movie details page |
+| **MPA** | Age rating certification |
+| **User Score** | Audience rating percentage |
+| **Overview** | Brief plot summary |
+| **Genre** | Comma-separated list of genres |
+| **Duration** | Runtime of the movie |
+| **Released Date** | Official release date  |
+| **Budget** | Production cost (Cleaned) |
+| **Revenue** | Box office earnings (Cleaned) |
 
 ---
 
