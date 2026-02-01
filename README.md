@@ -26,7 +26,7 @@ I built a custom **End-to-End Web Scraper** using Python. This tool automates th
 The script extracts **10 key data points** for every movie:
 
 | Column Name | Description | 
-| :--- | :--- | :--- |
+| :--- | :--- |
 | **Movie Name** | Title of the film |
 | **Link** | URL to the movie details page |
 | **MPA** | Age rating certification |
